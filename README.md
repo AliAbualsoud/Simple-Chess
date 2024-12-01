@@ -79,11 +79,11 @@ Once the game starts, players will be prompted to enter their moves in standard 
 Here are a few screenshots to give you a sense of the game:
 
 <p align="center">
-  <img src="./images/screenshot1.png" alt="Gameplay Screenshot 1" width="500">
+  <img src="images/board_image.png" alt="Gameplay Screenshot 1" width="500">
 </p>
 
 <p align="center">
-  <img src="./images/screenshot2.png" alt="Gameplay Screenshot 2" width="500">
+  <img src="images/board_image2.png" alt="Gameplay Screenshot 2" width="500">
 </p>
 
 ## Tech Stack
@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to contact me:
 
-- **Your Name** - [LinkedIn](https://linkedin.com/in/YourProfile) - [Email](mailto:your.email@example.com)
+- **Ali Abualsoud** - [LinkedIn](https://linkedin.com/in/YourProfile) - [Email](mailto:your.email@example.com)
 
 <p align="center">
   <strong>Enjoy the game and happy coding!</strong>
