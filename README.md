@@ -5,7 +5,7 @@
 <h1 align="center">Java Chess Game</h1>
 
 <p align="center">
-  <a href="https://github.com/AliAbualsoud/Simple-Chess">https://github.com/YourUsername/JavaChessGame</a>
+  <a href="https://github.com/AliAbualsoud/Simple-Chess">https://github.com/AliAbualsoud/Simple-Chess</a>
 </p>
 
 <p align="center">
