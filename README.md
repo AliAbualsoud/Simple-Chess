@@ -5,7 +5,7 @@
 <h1 align="center">Java Chess Game</h1>
 
 <p align="center">
-  <a href="https://github.com/YourUsername/JavaChessGame">https://github.com/YourUsername/JavaChessGame</a>
+  <a href="https://github.com/AliAbualsoud/Simple-Chess">https://github.com/YourUsername/JavaChessGame</a>
 </p>
 
 <p align="center">
@@ -51,19 +51,22 @@ To play the game, ensure you have the following installed:
 ```bash
    git clone https://github.com/YourUsername/JavaChessGame.git
    cd JavaChessGame
-   ```
+   
+```
 
 2. Compile the Java files:
 
 ```bash
    javac -d bin src/com/chessgame/*.java
-   ```
+   
+```
 
 3. Run the game:
 
 ```bash
    java -cp bin com.chessgame.Main
-   ```
+   
+```
 
 ## Gameplay
 
