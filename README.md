@@ -57,14 +57,14 @@ To play the game, ensure you have the following installed:
 2. Compile the Java files:
 
 ```bash
-   javac -d bin src/com/chessgame/*.java
+   javac -d bin -sourcepath src src/main/Main.java
    
 ```
 
 3. Run the game:
 
 ```bash
-   java -cp bin com.chessgame.Main
+   java -cp bin main.Main
    
 ```
 
