@@ -49,7 +49,7 @@ To play the game, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
 ```bash
-   https://github.com/AliAbualsoud/Simple-Chess
+   git clone https://github.com/AliAbualsoud/Simple-Chess
    cd JavaChessGame
    
 ```
